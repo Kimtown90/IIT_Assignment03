@@ -1,0 +1,16 @@
+Currently my ideal job would be a software developer for a game studio. I find
+this appealing as I have a great passion for video games, logic solving and my
+previous experience with Unity has been extremely fun to learn the skills for
+game development.
+
+This would include developing games using the Unity engine with C# or Unreal
+engine using C++, so experience with one of these game engines is needed. It
+would require a good understanding of game design, patterns and deployment to
+multiple systems such as PC, console and mobile devices.
+
+I currently have some experience with Unity and have been using C# for a number
+of years, including developing for PC, consoles as well as Android based
+devices. I have some understanding of design and patterns that are commonly
+used for software development.
+
+// Needs editing. Currently is a copy from Assignment 1
