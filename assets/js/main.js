@@ -38,7 +38,7 @@ function showSlides(n) {
 		if (allModals[i].classList.contains("active")) {
 			var slides = allModals[i].querySelectorAll(".mySlides");
 			var dots = allModals[i].querySelectorAll(".demo");
-			var captionText = allModals[i].querySelectorAll(".multiModalCaption");
+			var captionText = allModals[i].querySelectorAll(".multiModalCaption")[0];
 
 			var j;
 			if (n > slides.length) {slideIndex = 1}
