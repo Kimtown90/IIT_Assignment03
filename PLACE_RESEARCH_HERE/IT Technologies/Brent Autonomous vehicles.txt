@@ -1,0 +1,23 @@
+IT Technologies
+Autonomous vehicles
+
+Autonomous vehicles are basically a driver-less car in the sense that it can completely and safely navigate its way around the environment with little to no human input. 
+The concept of self-driving cars is simple; however, the complex technologies, potential safety issues, and ethical concerns are what is stopping it from becoming a mainstream technology right now. In Australia's current technological climate, our latest road vehicles have automated features, such as self-parking, lane-keep assist, and distance assist; however, these only assist with driving, and a licensed human still needs to have control of the car. It is estimated that over the next 20 years, vehicles in Australia will not need human drivers at all while vehicles increasingly become fully automated. Regulations play a massive part in the complete autonomation of vehicles. 
+There are 5 levels to vehicle automation in accordance by the  United Nations Economic Commission for Europe (UNECE) World Forum for Harmonization of Vehicle Regulations. 
+Level 1 is the current driver-assist features, as mentioned earlier. Level 2 is Tesla's Autopilot system, where drivers are expected to keep attention on traffic. Level 3, the driver can do other various things such as use phones and watch movies. Level 4 is the stage where drivers no longer have to be ready to intervene if necessary quickly, and Level 5 is complete automation. 
+
+Sensor technology is an integral system in automation vehicle development. These essentially allow the vehicle to see the environment around them, such as other vehicles, pedestrians, and other general traffic hazards. The growth in this field of technology will help fast track the implementation of automated services. Another area of technological advancements required for autonomous vehicles is machine learning. Autonomous vehicles will use both AI and Machine learning to process data collected from its sensors to decide what it will do from there. Machine Learning will calculate algorithms to identify certain objects and hazards that the sensors detect to determine what course of action the vehicle needs to take moving forward. As technology progresses, machine learning will make autonomous vehicles more efficient than a human driver can.
+
+This development's obvious impact allows road users to spend more time doing things they would rather be doing within their vehicle's confines, such as playing with their phones, watching movies, studying, or even catching up on sleep. If automation technology is perfected, it also eliminates human error in car accidents, making it a very effective safety measure. According to the Pennsylvania Department of Transportation, driver actions account for over 90% of motor vehicle accidents in the United States of America. Eliminating human error will result in a significant decline in crashes and fatalities. While this does have a significant positive impact on daily commuters, it severely impacts our transport industries, such as Taxis, Uber, Bus companies, and government-funded rail networks while also affecting the logistical networks like Truck drivers and Couriers. Without human drivers, businesses can potentially save hundreds of thousands in staff salaries by automating vehicle services. 
+
+For me personally, this has a significant positive effect on my life. As a Welder for V/Line, I must drive a truck for daily purposes within my job description. If truck automation became a mainstay, it would allow so much extra time to cover other daily tasks such as paperwork and organizing orders while traveling to and from job sites, while still performing my primary task of welding. On the contrary, my father is a locomotive driver with V/Line, and a growing concern for his industry is complete train automation, which would render his employment redundant.
+
+https://www.infrastructure.gov.au/transport/automatedvehicles/index.aspx
+
+https://theconversation.com/autonomous-cars-five-reasons-they-still-arent-on-our-roads-143316
+
+https://www.bbc.com/news/technology-51645566
+
+https://www.techrepublic.com/article/autonomous-vehicles-how-7-countries-are-handling-the-regulatory-landscape/
+
+https://www.youtube.com/watch?v=1lUkyCYdAEY
