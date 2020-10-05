@@ -1,14 +1,11 @@
-// Get the modal
-var modal = document.getElementById("singleModal");
-
 function closeSingleModal() {
-  modal.style.display = "none";
+  document.getElementById("singleModal").classList.remove("active");// = "none";
 }
 
 function openModal(image) {
   var modalImg = document.getElementById("imgContent");
   var captionText = document.getElementById("modalCaption");
-  modal.style.display = "block";
+  document.getElementById("singleModal").classList.add("active");// = "block";
   modalImg.src = image.src;
   captionText.innerHTML = image.alt;
 }
