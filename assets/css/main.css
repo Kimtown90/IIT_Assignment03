@@ -42,7 +42,7 @@
   margin: auto;
   padding: 0;
   width: 90%;
-  max-width: 1200px;
+  max-width: 700px;
 }
 
 /* The Close Button */
@@ -110,7 +110,7 @@
 }
 
 .multiModalSection img {
-  margin-bottom: -4px;
+  margin-bottom: -8px;
   /* max-height:500px; */
   /* max-width:700px; */
   /* height:auto; */
