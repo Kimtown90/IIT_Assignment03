@@ -1,0 +1,234 @@
+<!DOCTYPE HTML>
+<!--
+	Solid State by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Industry Data</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<link rel="stylesheet" href="assets/css/template.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="is-preload">
+
+		<!-- Page Wrapper -->
+			<div id="page-wrapper">
+
+				<!-- Header -->
+					<header id="header">
+						<h1><a href="index.html">Meme Team</a></h1>
+						<nav>
+							<a href="#menu">Menu</a>
+						</nav>
+					</header>
+
+				<!-- Menu -->
+					<nav id="menu">
+						<div class="inner">
+							<h2>Menu</h2>
+							<ul class="links">
+								<li><a href="index.html">Home</a></li>
+								<li><a href="profiles.html">Team</a></li>
+								<li><a href="project.html">Project</a></li>
+								<li><a href="industry_data.html">Industry Data</a></li>
+								<li><a href="it_work.html">IT Work</a></li>
+								<li><a href="it_technologies.html">IT Technologies</a></li>
+								<li><a href="elements.html">Elements</a></li>
+							</ul>
+							<a href="#" class="close">Close</a>
+						</div>
+					</nav>
+
+				<!-- Wrapper -->
+					<section id="wrapper">
+						<header>
+							<div class="inner">
+								<h2>Modal Demo</h2>
+								<p>Demo and testing page for modal images.</p>
+							</div>
+						</header>
+
+						<!-- Content -->
+							<div class="wrapper">
+								<div class="inner">
+
+									<h3 class="major">Single Modal</h3>
+									<p>Each image will show individually</p>
+
+									<img class="modalImg" src="images/profiles/brent.png" onclick="openModal(this);" alt="Brent" style="width:100%;max-width:300px">
+									<img class="modalImg" src="images/profiles/leo.png" onclick="openModal(this);" alt="Leonard" style="width:100%;max-width:300px">
+									<!-- The Modal -->
+									<div id="singleModal" class="singleModal">
+									  <span class="modalClose" onclick="closeSingleModal()">&times;</span>
+									  <img class="modal-content" id="imgContent">
+									  <div id="modalCaption"></div>
+									</div>
+									<br><br><br>
+
+									<h3 class="major">Multi Modal</h3>
+									<p>Each set will show in a separate group of images</p>
+
+									<h5>Group 1</h5>
+
+									<div class="multiModalSection">
+														<div class="row">
+														  <div class="column">
+														    <img src="images/profiles/brent.png" style="width:100%" onclick="openMultiModal('modal01');currentSlide(1)" class="hover-shadow cursor">
+														  </div>
+														  <div class="column">
+														    <img src="images/profiles/leo.png" style="width:100%" onclick="openMultiModal('modal01');currentSlide(2)" class="hover-shadow cursor">
+														  </div>
+														  <div class="column">
+														    <img src="images/profiles/lo.jpg" style="width:100%" onclick="openMultiModal('modal01');currentSlide(3)" class="hover-shadow cursor">
+														  </div>
+														  <div class="column">
+														    <img src="images/profiles/michael.jpg" style="width:100%" onclick="openMultiModal('modal01');currentSlide(4)" class="hover-shadow cursor">
+														  </div>
+														</div>
+
+														<div id="modal01" class="multiModal">
+														  <span class="modalClose cursor" onclick="closeMultiModal('modal01')">&times;</span>
+														  <div class="modal-content">
+
+														    <div class="mySlides">
+														      <div class="numbertext">1 / 4</div>
+														      <img src="images/profiles/brent.png" style="width:100%">
+														    </div>
+
+														    <div class="mySlides">
+														      <div class="numbertext">2 / 4</div>
+														      <img src="images/profiles/leo.png" style="width:100%">
+														    </div>
+
+														    <div class="mySlides">
+														      <div class="numbertext">3 / 4</div>
+														      <img src="images/profiles/lo.jpg" style="width:100%">
+														    </div>
+
+														    <div class="mySlides">
+														      <div class="numbertext">4 / 4</div>
+														      <img src="images/profiles/michael.jpg" style="width:100%">
+														    </div>
+
+														    <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+														    <a class="next" onclick="plusSlides(1)">&#10095;</a>
+
+														    <div class="caption-container">
+														      <p class="multiModalCaption"></p>
+														    </div>
+
+
+														    <div class="column">
+														      <img class="demo cursor" src="images/profiles/brent.png" style="width:100%" onclick="currentSlide(1)" alt="Brent">
+														    </div>
+														    <div class="column">
+														      <img class="demo cursor" src="images/profiles/leo.png" style="width:100%" onclick="currentSlide(2)" alt="Leonard">
+														    </div>
+														    <div class="column">
+														      <img class="demo cursor" src="images/profiles/lo.jpg" style="width:100%" onclick="currentSlide(3)" alt="Lochlann">
+														    </div>
+														    <div class="column">
+														      <img class="demo cursor" src="images/profiles/michael.jpg" style="width:100%" onclick="currentSlide(4)" alt="Michael">
+														    </div>
+														  </div>
+														</div>
+									</div>
+
+									<br><br><br>
+									<h5>Group 2</h5>
+
+
+									<div class="multiModalSection">
+														<div class="row">
+															<div class="column">
+																<img src="images/profiles/steven.jpg" style="width:100%" onclick="openMultiModal('modal02');currentSlide()" class="hover-shadow cursor">
+															</div>
+															<div class="column">
+																<img src="images/profiles/tom.jpg" style="width:100%" onclick="openMultiModal('modal02');currentSlide(2)" class="hover-shadow cursor">
+															</div>
+															<div class="column">
+																<img src="images/profiles/lo.jpg" style="width:100%" onclick="openMultiModal('modal02');currentSlide(3)" class="hover-shadow cursor">
+															</div>
+															<div class="column">
+																<img src="images/profiles/michael.jpg" style="width:100%" onclick="openMultiModal('modal02');currentSlide(4)" class="hover-shadow cursor">
+															</div>
+														</div>
+
+														<div id="modal02" class="multiModal">
+															<span class="modalClose cursor" onclick="closeMultiModal('modal02')">&times;</span>
+															<div class="modal-content">
+
+																<div class="mySlides">
+																	<div class="numbertext">1 / 4</div>
+																	<img src="images/profiles/steven.jpg" style="width:100%">
+																</div>
+
+																<div class="mySlides">
+																	<div class="numbertext">2 / 4</div>
+																	<img src="images/profiles/tom.jpg" style="width:100%">
+																</div>
+
+																<div class="mySlides">
+																	<div class="numbertext">3 / 4</div>
+																	<img src="images/profiles/lo.jpg" style="width:100%">
+																</div>
+
+																<div class="mySlides">
+																	<div class="numbertext">4 / 4</div>
+																	<img src="images/profiles/michael.jpg" style="width:100%">
+																</div>
+
+																<a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+																<a class="next" onclick="plusSlides(1)">&#10095;</a>
+
+																<div class="caption-container">
+																	<p class="multiModalCaption"></p>
+																</div>
+
+
+																<div class="column">
+																	<img class="demo cursor" src="images/profiles/steven.jpg" style="width:100%" onclick="currentSlide(1)" alt="Brent">
+																</div>
+																<div class="column">
+																	<img class="demo cursor" src="images/profiles/tom.jpg" style="width:100%" onclick="currentSlide(2)" alt="Leonard">
+																</div>
+																<div class="column">
+																	<img class="demo cursor" src="images/profiles/lo.jpg" style="width:100%" onclick="currentSlide(3)" alt="Lochlann">
+																</div>
+																<div class="column">
+																	<img class="demo cursor" src="images/profiles/michael.jpg" style="width:100%" onclick="currentSlide(4)" alt="Michael">
+																</div>
+															</div>
+														</div>
+									</div>
+								</div>
+							</div>
+
+					</section>
+
+				<!-- Footer -->
+					<section id="footer">
+						<div class="inner">
+							<ul class="copyright">
+								<li>&copy; Meme Team. All rights reserved.</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+							</ul>
+						</div>
+					</section>
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+			<script src="assets/js/template.js"></script>
+
+	</body>
+</html>
