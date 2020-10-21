@@ -106,4 +106,3 @@ Industries, A., 2020. Adafruit I2S 3W Stereo Speaker Bonnet For Raspberry Pi. [o
 Diy Portable Raspberry Pi Power Supply MakeUseOf. 2020. 3 Raspberry Pi Battery Packs For Portable Projects. [online] Available at: <https://www.makeuseof.com/tag/pi-go-x-ways-powering-raspberry-pi-portable-projects/> [Accessed 21 October 2020].
 
 
-
