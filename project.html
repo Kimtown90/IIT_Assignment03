@@ -19,30 +19,7 @@
 		<!-- Page Wrapper -->
 			<div id="page-wrapper">
 
-				<!-- Header -->
-					<header id="header">
-						<h1><a href="index.html">Meme Team</a></h1>
-						<nav>
-							<a href="#menu">Menu</a>
-						</nav>
-					</header>
 
-				<!-- Menu -->
-					<nav id="menu">
-						<div class="inner">
-							<h2>Menu</h2>
-							<ul class="links">
-								<li><a href="index.html">Home</a></li>
-								<li><a href="profiles.html">Team</a></li>
-								<li><a href="project.html">Project</a></li>
-								<li><a href="industry_data.html">Industry Data</a></li>
-								<li><a href="it_work.html">IT Work</a></li>
-								<li><a href="it_technologies.html">IT Technologies</a></li>
-								<li><a href="reflections.html">Reflections</a></li>
-							</ul>
-							<a href="#" class="close">Close</a>
-						</div>
-					</nav>
 
 				<!-- Wrapper -->
 					<section id="wrapper">
@@ -56,6 +33,14 @@
 						<!-- Content -->
 							<div class="wrapper">
 								<div class="inner">
+
+									<!-- Modal for images -->
+									<div id="singleModal" class="singleModal">
+										<span class="modalClose" onclick="closeSingleModal()">&times;</span>
+										<img class="modal-content" id="imgContent">
+										<div id="modalCaption"></div>
+									</div>
+
 									<h3 class="major">Overview</h3>
 									<p>
 										The Mimi-box is a ‘party friendly’ casual party game with game design focused on
@@ -144,10 +129,14 @@
 										game will pause and using the skip button is how to have the
 										game continue between turns.
 									</p>
+									<img class="center" src="images/mimi-box.png" alt="The Mimi-box and it's components" style="width:100%;max-width:800px">
+									<p style="text-align:center; font-size:0.75em">The Mimi-box and it's components</p>
+									<br>
 									<p>
 										The physical design of the box is a 10cm x 10 cm case that
-										closely resembles a hexagonal prism that can be seen (link
-										here), holds the interior mechanisms audio and power within
+										closely resembles a hexagonal prism that can be seen (as
+										seen above, holds the interior mechanisms audio and power
+										within
 										the casing with the boxes centre of mass being focused
 										around the base, the device itself is generally expected to
 										be utilized by children and or youth or perhaps adults that
