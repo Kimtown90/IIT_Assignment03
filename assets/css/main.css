@@ -312,3 +312,8 @@ a.anchor {
 #footer .inner .sources h5 {
   color: inherit;
 }
+
+.references-list {
+  list-style-type: none;
+  font-size:0.75em;
+}
