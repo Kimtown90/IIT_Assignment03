@@ -97,15 +97,13 @@ news article for tabletop games Marie Elizabeth Oliver 2018, ‘The Seattle Time
 
 Hardware for Project:
 
-Raspberry Pi zero W https://www.raspberrypi.org/products/raspberry-pi-zero-w/
+Raspberry Pi. 2020. Raspberry Pi Zero W - Raspberry Pi. [online] Available at: <https://www.raspberrypi.org/pi-zero-w/> [Accessed 21 October 2020].
 
-Microphone input https://www.adafruit.com/product/3421
+Industries, A., 2020. Adafruit I2S MEMS Microphone Breakout - SPH0645LM4H. [online] Adafruit.com. Available at: <https://www.adafruit.com/product/3421> [Accessed 21 October 2020].
 
-Mini HAT https://www.adafruit.com/product/3346
+Industries, A., 2020. Adafruit I2S 3W Stereo Speaker Bonnet For Raspberry Pi. [online] Adafruit.com. Available at: <https://www.adafruit.com/product/3346> [Accessed 21 October 2020].
 
-Speaker output https://www.adafruit.com/product/3968
-
-Diy Portable Raspberry Pi Power Supply https://www.makeuseof.com/tag/pi-go-x-ways-powering-raspberry-pi-portable-projects/
+Diy Portable Raspberry Pi Power Supply MakeUseOf. 2020. 3 Raspberry Pi Battery Packs For Portable Projects. [online] Available at: <https://www.makeuseof.com/tag/pi-go-x-ways-powering-raspberry-pi-portable-projects/> [Accessed 21 October 2020].
 
 
 
