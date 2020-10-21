@@ -1,9 +1,7 @@
 
 Project 
 
--The Meme Teams project was focused on improving and supporting social interaction through the creation of a modern party game the Mimi-box,
- in witch the player whom can imitate their friends or family the best is the winner of a casual and friendly to all ages game mode,
- furthermore can be learnt about the function in terms of design and software & hardware involved.
+-The Meme Teams project was focused on improving and supporting social interaction through the creation of a modern party game the Mimi-box, in witch the player whom can imitate their friends or family the best is the winner of a casual and friendly to all ages game mode, furthermore can be learnt about the function in terms of design and software & hardware involved.
 
 Industry Data 
 

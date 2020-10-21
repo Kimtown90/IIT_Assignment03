@@ -289,3 +289,26 @@ a.anchor {
     top: -80px;
     visibility: hidden;
 }
+
+#footer .inner .sources {
+  border-left: solid 2px rgba(255, 255, 255, 0.125);
+  color: rgba(255, 255, 255, 0.35);
+  display: inline-block;
+  font-size: 0.9em;
+  line-height: 1;
+  margin-left: 1em;
+  padding: 0;
+  padding-left: 1em;
+}
+
+#footer .inner .sources a {
+  color: inherit;
+}
+
+#footer .inner .sources b {
+  color: inherit;
+}
+
+#footer .inner .sources h5 {
+  color: inherit;
+}
