@@ -27,12 +27,7 @@ thing or that anyone was holding the group back, as all workplaces have employee
 said that to remain level headed, he would focus on what he could do as an individual to contribute to the team, rather than
 worrying about what anyone else was contributing.
 
-The Meme-Team's collaboration via Github worked very well for us. Steve had the greatest contributions as he was the predominant 
-coder of our group. Brent uploaded many meeting minutes, so Github's contributions were slightly exaggerated as Github measures 
-off Lines contributed rather than Words. This platform allowed us to access different forms and files when working together easily, 
-making building the website easy to copy/paste snippets of information. While the contributor's page on Github is a handy feature, 
-it doesn't fully show the team's whole contributions behind the scenes. The graph contribution information doesn't represent time 
-and research put into the information uploaded. 
+The Meme-Team's collaboration via Github worked very well for us. Steve had the greatest contributions as he was the predominant coder of our group. Brent uploaded many meeting minutes, so Github's contributions were slightly exaggerated as Github measures of Lines contributed rather than Words. This platform allowed us to access different forms and files when working together easily, making building the website easy to copy/paste snippets of information. While the contributor's page on Github is a handy feature, it doesn't fully show the team's whole contributions behind the scenes. The graph contribution information doesn't represent time and research put into the information uploaded. 
 
 In summary, each team member was definitely happy with the overall results of the project. We all had a great time working with
 each other. However, it was stressful; we still managed to keep things together, stay focused, and have fun achieving a great
